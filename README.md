@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Nahom Biruk:
-Welcome to my GitHub. I’m a backend-focused engineer building structured systems with clean architecture and long-term scalability in mind. Currently working on productivity platforms and system-driven solutions where design clarity and performance matter. Interested in collaborating on impactful software in education, public services, or developer tooling. Exploring distributed systems, concurrency, and production-grade deployment.
+Welcome to my GitHub! I’m a backend-focused engineer building structured systems with clean architecture and long-term scalability in mind. Currently working on productivity platforms and system-driven solutions where design clarity and performance matter. Interested in collaborating on impactful software in education, public services, or developer tooling. Exploring distributed systems, concurrency, and production-grade deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nahom-biruk-848236239)
