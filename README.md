@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m a backend-focused engineer building structured syste
 ![](https://nirzak-streak-stats.vercel.app/?user=NBXII&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NBXII&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NBXII)
+![GitHub Streak](https://streak-stats.demolab.com?user=NBXII&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NBXII&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
